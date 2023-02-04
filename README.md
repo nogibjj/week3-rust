@@ -1,6 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
-
 ## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+
+## This is a mini demo to calculate all the prime number under 100
